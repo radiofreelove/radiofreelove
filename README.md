@@ -4,12 +4,12 @@ Two free, plain-language guides. Each is independent, and each shows the officia
 
 ## The Stasis Project
 
-A guide for people applying for the Oregon Health Plan (OHP) under the 2027 work or activity rules.
+A guide for people applying for the Oregon Health Plan (OHP), Utah Medicaid, or Washington Apple Health under the 2027 work or activity rules.
 
 - Site: https://projectstasis.pages.dev
 - Source: https://github.com/radiofreelove/projectstasis
 
-Not run by the State of Oregon, the Oregon Health Authority, or the Oregon Department of Human Services.
+Not run by the State of Oregon, the Oregon Health Authority, or the Oregon Department of Human Services; not run by Utah's Department of Health and Human Services or Department of Workforce Services; and not run by Washington's Health Care Authority or Department of Social and Health Services.
 
 ## The Strand Project
 
