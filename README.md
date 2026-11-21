@@ -1,6 +1,6 @@
 # radiofreelove
 
-Two free, plain-language guides. Each is independent, and each shows the official source behind every fact it states.
+Two free, plain-language civic guide projects, each covering Oregon, Washington, and Utah. Each is independent, and each shows the official source behind every fact it states.
 
 ## The Stasis Project
 
